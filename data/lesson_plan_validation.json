@@ -1,0 +1,3218 @@
+{
+  "lesson_plan_validation_dataset": {
+    "metadata": {
+      "dataset_type": "lesson_plan_validation",
+      "total_samples": 50,
+      "chapter": "His First Flight",
+      "grade": 10,
+      "subject": "English",
+      "focus_area": "Character Analysis",
+      "duration": "45 minutes",
+      "created_date": "2025-10-13",
+      "version": "1.0",
+      "description": "Lesson plan validation dataset with 50 samples for 'His First Flight' focusing on character analysis."
+    },
+    "samples": [
+      {
+        "id": "LESSON_VALID_001",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_002",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_003",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_004",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_005",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_006",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_007",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_008",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_009",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_010",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_011",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_012",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_013",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_014",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_015",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_016",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_017",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_018",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_019",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_020",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_021",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_022",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_023",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_024",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_025",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_026",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_027",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_028",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_029",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_030",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_031",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_032",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_033",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_034",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_035",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_036",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_037",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_038",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_039",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_040",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_041",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_042",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_043",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_044",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_045",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_046",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_047",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_048",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_049",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      },
+      {
+        "id": "LESSON_VALID_050",
+        "input": "Prepare a 45-minute lesson plan for 'His First Flight' emphasizing the young seagull character transformation.",
+        "output": {
+          "lesson_title": "Understanding Characters in 'His First Flight'",
+          "grade": 10,
+          "duration": "45 minutes",
+          "subject": "English",
+          "chapter": "His First Flight",
+          "focus": "Character Analysis",
+          "objectives": [
+            "Identify key characters and their traits in the story.",
+            "Analyze the young seagull emotional and psychological journey.",
+            "Discuss how fear and courage shape character development."
+          ],
+          "materials_required": [
+            "Textbook  'His First Flight'",
+            "Character trait chart",
+            "Whiteboard and markers",
+            "Worksheet on character emotions"
+          ],
+          "lesson_steps": [
+            {
+              "step": 1,
+              "time": "10 minutes",
+              "activity": "Introduction & Warm-up",
+              "description": "Discuss the concept of fear and courage in daily life and link it to the seagull story."
+            },
+            {
+              "step": 2,
+              "time": "15 minutes",
+              "activity": "Character Exploration",
+              "description": "Read parts of the text showing the seagull fear and determination; identify emotional changes."
+            },
+            {
+              "step": 3,
+              "time": "10 minutes",
+              "activity": "Group Discussion",
+              "description": "Students discuss how family interactions influence the seagull transformation."
+            },
+            {
+              "step": 4,
+              "time": "5 minutes",
+              "activity": "Character Trait Chart",
+              "description": "Students complete a chart listing the young seagull traits before and after his first flight."
+            },
+            {
+              "step": 5,
+              "time": "5 minutes",
+              "activity": "Conclusion & Reflection",
+              "description": "Summarize how overcoming fear builds confidence. Encourage students to relate to real-life experiences."
+            }
+          ],
+          "assessment": {
+            "type": "worksheet + oral discussion",
+            "criteria": [
+              "Ability to describe character traits accurately",
+              "Use of textual evidence",
+              "Participation in discussion"
+            ]
+          },
+          "homework": "Write a short paragraph describing the young seagull change from fear to confidence."
+        }
+      }
+    ]
+  }
+}

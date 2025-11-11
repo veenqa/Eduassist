@@ -1,0 +1,3316 @@
+{
+  "quiz_training_dataset": {
+    "metadata": {
+      "dataset_type": "quiz_training",
+      "total_samples": 50,
+      "chapter": "His First Flight",
+      "grade": 10,
+      "subject": "English",
+      "created_date": "2025-10-13",
+      "version": "1.0",
+      "description": "Comprehensive quiz training dataset with 50 samples for 'His First Flight' covering comprehension, inference, and vocabulary-based questions"
+    },
+    "samples": [
+      {
+        "id": "QUIZ_TRAIN_001",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_002",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_003",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_004",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_005",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_006",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_007",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_008",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_009",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_010",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_011",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_012",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_013",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_014",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_015",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_016",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_017",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_018",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_019",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_020",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_021",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_022",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_023",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_024",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_025",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_026",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_027",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_028",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_029",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_030",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_031",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_032",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_033",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_034",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_035",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_036",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_037",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_038",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_039",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_040",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_041",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_042",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_043",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_044",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_045",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_046",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_047",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_048",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull  parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_049",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull  family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_050",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "He feared his wings would not support him over the vast sea beneath."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What did the young seagull parents do to make him fly?",
+              "correct_answer": "They scolded and threatened to let him starve unless he flew.",
+              "marks": 2,
+              "explanation": "His parents encouraged him by calling, scolding, and threatening to starve him."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What made the young seagull finally take his first flight?",
+              "options": {
+                "a": "His siblings pushed him off the ledge",
+                "b": "He slipped accidentally",
+                "c": "His hunger and mother  piece of fish",
+                "d": "His father forced him"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "Driven by hunger, he dived for the fish his mother held and discovered he could fly."
+            },
+            {
+              "q_number": 4,
+              "type": "true_false",
+              "question": "The young seagull family celebrated his first flight by feeding him.",
+              "correct_answer": "True",
+              "marks": 2,
+              "explanation": "After his first flight, his family offered him scraps of dog-fish as praise."
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "How did the young seagull feel when he started flying?",
+              "correct_answer": "He was no longer afraid and felt delighted to be soaring through the air.",
+              "marks": 2,
+              "explanation": "He forgot his fear, enjoying the thrill of flying freely for the first time."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

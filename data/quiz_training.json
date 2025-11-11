@@ -1,0 +1,677 @@
+{
+  "quiz_training_dataset": {
+    "metadata": {
+      "dataset_type": "quiz_training",
+      "total_samples": 100,
+      "chapter": "His First Flight",
+      "grade": 10,
+      "subject": "English",
+      "created_date": "2025-10-13",
+      "version": "1.0",
+      "description": "Comprehensive training dataset for quiz generation with 100 samples covering various difficulty levels and question types"
+    },
+    "samples": [
+      {
+        "id": "QUIZ_TRAIN_001",
+        "input": "Generate a 5-question, medium-difficulty quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Medium Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why was the young seagull afraid to fly initially?",
+              "options": {
+                "a": "He had injured his wing",
+                "b": "He thought his wings wouldn't support him due to the height",
+                "c": "His parents didn't teach him",
+                "d": "The weather was bad"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "The text shows his fear was psychological - he was terrified by the great expanse of sea beneath and felt certain his wings wouldn't support him."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "How did the mother seagull's strategy of holding the fish out of reach help overcome the young seagull's fear?",
+              "correct_answer": "By using hunger as motivation, she forced the young seagull to act instinctively without overthinking, overcoming his mental barrier.",
+              "marks": 2,
+              "explanation": "The mother's strategy was psychological - she made him desperate enough to take action despite his fear, proving his capabilities through action."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What does the 'ledge' symbolize in the story?",
+              "options": {
+                "a": "A dangerous place",
+                "b": "His comfort zone and safety",
+                "c": "His family home",
+                "d": "A learning platform"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "The ledge represents the young seagull's comfort zone - a safe but limiting place that prevented him from growing."
+            },
+            {
+              "q_number": 4,
+              "type": "fill_blank",
+              "question": "The young seagull had been alone on the ledge for __________ hours before he finally flew.",
+              "correct_answer": "twenty-four",
+              "alternate_answers": ["24", "twenty four"],
+              "marks": 2,
+              "explanation": "The text explicitly states 'That was twenty-four hours ago' when describing how long the young seagull had been isolated."
+            },
+            {
+              "q_number": 5,
+              "type": "analytical",
+              "question": "What is the main theme of 'His First Flight' and how does it relate to human experiences?",
+              "correct_answer": "The main theme is overcoming fear and self-doubt to discover one's potential. It relates to human experiences because many people face situations where fear prevents them from attempting necessary actions, but through taking the first step, they discover hidden capabilities.",
+              "marks": 2,
+              "explanation": "The story teaches that fear is often greater in imagination than reality, and that sometimes we need external pressure or motivation to overcome it - a universal human experience."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_002",
+        "input": "Create a 5-question, easy-difficulty quiz on 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Easy Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 5,
+          "duration": "10 minutes",
+          "difficulty": "easy",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Who is the author of 'His First Flight'?",
+              "options": {
+                "a": "R.K. Narayan",
+                "b": "Liam O'Flaherty",
+                "c": "Roald Dahl",
+                "d": "Paulo Coelho"
+              },
+              "correct_answer": "b",
+              "marks": 1
+            },
+            {
+              "q_number": 2,
+              "type": "true_false",
+              "question": "The young seagull's siblings had shorter wings than him.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "The text states his little sister's wings were far shorter than his own, but he still couldn't fly."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What did the older brother catch first?",
+              "options": {
+                "a": "A mackerel",
+                "b": "A herring",
+                "c": "A dog-fish",
+                "d": "A sardine"
+              },
+              "correct_answer": "b",
+              "marks": 1
+            },
+            {
+              "q_number": 4,
+              "type": "fill_blank",
+              "question": "The young seagull ate dried pieces of __________ when he was very hungry.",
+              "correct_answer": "eggshell",
+              "marks": 1
+            },
+            {
+              "q_number": 5,
+              "type": "mcq",
+              "question": "What color was the sea described as when the seagull flew over it?",
+              "options": {
+                "a": "Blue",
+                "b": "Gray",
+                "c": "Green",
+                "d": "Dark"
+              },
+              "correct_answer": "c",
+              "marks": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_003",
+        "input": "Generate 5 MCQ questions of hard difficulty for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Hard Level Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 15,
+          "duration": "25 minutes",
+          "difficulty": "hard",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Which literary device is used in the phrase 'his heart stood still' when describing the young seagull's fear during his dive?",
+              "options": {
+                "a": "Simile",
+                "b": "Metaphor",
+                "c": "Hyperbole",
+                "d": "Personification"
+              },
+              "correct_answer": "c",
+              "marks": 3,
+              "explanation": "Hyperbole is an exaggeration used to emphasize the intensity of fear - his heart didn't literally stop but felt like it did."
+            },
+            {
+              "q_number": 2,
+              "type": "mcq",
+              "question": "What does the young seagull forgetting 'that he had not always been able to fly' signify?",
+              "options": {
+                "a": "He developed amnesia from the shock",
+                "b": "How quickly confidence replaces fear once action is taken",
+                "c": "He was too tired to remember",
+                "d": "His parents made him forget"
+              },
+              "correct_answer": "b",
+              "marks": 3,
+              "explanation": "This signifies that perceived limitations are mental barriers, and once broken, our past fears seem irrelevant - it shows identity transformation."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "If the mother had given the fish directly instead of holding it out of reach, how would the story's message have changed?",
+              "options": {
+                "a": "It would have been shorter",
+                "b": "It would teach about dependence instead of empowerment",
+                "c": "It would have the same message",
+                "d": "It would be a sad story"
+              },
+              "correct_answer": "b",
+              "marks": 3,
+              "explanation": "The current approach teaches independence through challenge; a direct gift would have enabled dependence and avoided necessary growth."
+            },
+            {
+              "q_number": 4,
+              "type": "mcq",
+              "question": "What role does isolation play in the young seagull's decision to fly?",
+              "options": {
+                "a": "It made him sad",
+                "b": "It removed his safety net and created necessary discomfort for change",
+                "c": "It had no effect",
+                "d": "It encouraged him to leave the cliff"
+              },
+              "correct_answer": "b",
+              "marks": 3,
+              "explanation": "The 24-hour isolation was crucial - it removed his support system and forced him to confront his situation, making change necessary."
+            },
+            {
+              "q_number": 5,
+              "type": "mcq",
+              "question": "How does the author build suspense in the moment when the young seagull dives for the fish?",
+              "options": {
+                "a": "By using rapid dialogue",
+                "b": "By describing in detail the sensations of falling and fear, then revealing he can fly",
+                "c": "By introducing new characters",
+                "d": "By changing the setting"
+              },
+              "correct_answer": "b",
+              "marks": 3,
+              "explanation": "The author creates maximum suspense through detailed description of terror ('monstrous terror seized him'), then releases it by revealing his wings spread."
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_004",
+        "input": "Make a 5-question quiz with mixed question types for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Mixed Question Types Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 12,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "The parents' behavior towards the young seagull can best be described as:",
+              "options": {
+                "a": "Cruel and uncaring",
+                "b": "Tough love to encourage independence",
+                "c": "Overprotective",
+                "d": "Indifferent and absent"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 2,
+              "type": "true_false",
+              "question": "The mother seagull gave the piece of fish directly to the young seagull.",
+              "correct_answer": "False",
+              "marks": 2,
+              "explanation": "She halted with the fish almost within reach, forcing him to dive for it."
+            },
+            {
+              "q_number": 3,
+              "type": "short_answer",
+              "question": "What attempts did the young seagull make to reach his parents without flying?",
+              "correct_answer": "He trotted back and forth on the ledge, thought about moving along the cliff face, and pretended to be asleep to get their attention.",
+              "marks": 3
+            },
+            {
+              "q_number": 4,
+              "type": "fill_blank",
+              "question": "When the young seagull dived, he felt a __________ wind against his breast feathers and under his stomach.",
+              "correct_answer": "strong/rushing",
+              "alternate_answers": ["rushing", "powerful", "fierce"],
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "analytical",
+              "question": "How did the family celebrate the young seagull's first flight? What does this reveal about their love for him?",
+              "correct_answer": "They flew around him, praised him, and offered him food scraps. This reveals their love was genuine but expressed through tough love - they forced him to grow because they cared about his independence.",
+              "marks": 3
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_005",
+        "input": "Generate 5-question vocabulary-focused quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Vocabulary Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "15 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "What does 'ledge' mean in the context of the story?",
+              "options": {
+                "a": "A small island",
+                "b": "A narrow shelf jutting out from a vertical surface",
+                "c": "A rocky mountain",
+                "d": "A type of bird nest"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 2,
+              "type": "mcq",
+              "question": "Which word means 'to eat something eagerly and in large amounts'?",
+              "options": {
+                "a": "Gnaw",
+                "b": "Devour",
+                "c": "Trot",
+                "d": "Swoop"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 3,
+              "type": "fill_blank",
+              "question": "A very steep side of a cliff or mountain is called a __________.",
+              "correct_answer": "precipice",
+              "marks": 2
+            },
+            {
+              "q_number": 4,
+              "type": "mcq",
+              "question": "What does 'plaintively' mean?",
+              "options": {
+                "a": "Loudly and angrily",
+                "b": "Happily and joyfully",
+                "c": "Sadly and mournfully",
+                "d": "Quickly and hastily"
+              },
+              "correct_answer": "c",
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "short_answer",
+              "question": "Use the word 'beckoning' in a sentence related to the story.",
+              "correct_answer": "The family was beckoning the young seagull to join them in flight. (Accept any sentence showing correct understanding of 'calling/gesturing to come')",
+              "marks": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_006",
+        "input": "Create a 5-question character analysis quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Character Analysis Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Which character trait best describes the young seagull at the beginning of the story?",
+              "options": {
+                "a": "Brave and confident",
+                "b": "Fearful and doubtful",
+                "c": "Angry and rebellious",
+                "d": "Lazy and unmotivated"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "How does the young seagull's character change from the beginning to the end of the story?",
+              "correct_answer": "From fearful and dependent to confident and independent. From overthinking to acting on instinct. From self-doubt to self-belief.",
+              "marks": 2
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What does the mother seagull's decision to hold back the food reveal about her character?",
+              "options": {
+                "a": "She is cruel and doesn't care about her young",
+                "b": "She is wise and uses tough love to teach lessons",
+                "c": "She is forgetful",
+                "d": "She doesn't have enough food"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 4,
+              "type": "fill_blank",
+              "question": "The young seagull's fear can be described as __________ rather than physical.",
+              "correct_answer": "psychological/mental",
+              "alternate_answers": ["mental", "psychological", "emotional"],
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "analytical",
+              "question": "Compare the siblings' courage with the young seagull's initial fear. What caused the difference?",
+              "correct_answer": "The siblings had already overcome their fear through action, while the young seagull hadn't taken the first step. The difference was not in capability but in whether they had acted despite fear.",
+              "marks": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_007",
+        "input": "Generate 5 comprehension questions on 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Comprehension Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Why did the family walk about on the plateau laughing at the young seagull's cowardice?",
+              "options": {
+                "a": "They were mean and enjoyed his suffering",
+                "b": "To create social pressure and shame him into trying",
+                "c": "They forgot about him",
+                "d": "They were practicing laughing"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "They used social pressure as a motivational tool - making him feel left out and embarrassed to encourage action."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "Explain the significance of the young seagull feeling the heat more intensely due to hunger.",
+              "correct_answer": "It shows his desperate physical condition, adding urgency to his need for food and making him more vulnerable to his mother's strategy.",
+              "marks": 2
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What does the sentence 'his long gray legs stepping daintily' reveal?",
+              "options": {
+                "a": "He was dancing",
+                "b": "His nervous, careful movements reflecting his fear",
+                "c": "He was naturally graceful",
+                "d": "He was running away"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "Daintily suggests careful, hesitant steps - showing his anxiety and uncertainty."
+            },
+            {
+              "q_number": 4,
+              "type": "fill_blank",
+              "question": "When the young seagull landed on the 'green sea', his legs __________ into it.",
+              "correct_answer": "sank",
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "analytical",
+              "question": "What is the turning point in the story, and why is it significant?",
+              "correct_answer": "When the young seagull dives for the fish. It's significant because it's the moment he overcomes his mental block and discovers his capability through action.",
+              "marks": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_008",
+        "input": "Make a 5-question plot-based quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Plot-Based Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "15 minutes",
+          "difficulty": "easy",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "What was the first event that happened in the story?",
+              "options": {
+                "a": "The young seagull flew",
+                "b": "His siblings flew away",
+                "c": "He fell into the sea",
+                "d": "His mother brought food"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 2,
+              "type": "true_false",
+              "question": "The young seagull attempted to fly immediately after his siblings left.",
+              "correct_answer": "False",
+              "marks": 2,
+              "explanation": "He was afraid and refused to fly despite attempts."
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What happened between the first flight attempt and the successful flight?",
+              "options": {
+                "a": "Nothing significant",
+                "b": "24 hours of isolation and hunger",
+                "c": "He learned to swim",
+                "d": "He read books about flying"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 4,
+              "type": "short_answer",
+              "question": "Describe the sequence of events that led to the young seagull's first flight.",
+              "correct_answer": "Isolation from family → hunger and desperation → mother appears with food → holds it out of reach → young seagull dives → discovers he can fly.",
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "mcq",
+              "question": "How does the story end?",
+              "options": {
+                "a": "The young seagull crashes into the sea",
+                "b": "He is celebrated by his family with food",
+                "c": "He returns to the ledge",
+                "d": "He flies away alone"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_009",
+        "input": "Generate a 5-question thematic quiz for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Thematic Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 12,
+          "duration": "20 minutes",
+          "difficulty": "medium",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "Which theme is MOST emphasized in 'His First Flight'?",
+              "options": {
+                "a": "The importance of family bonds",
+                "b": "Overcoming fear and self-doubt",
+                "c": "Survival in nature",
+                "d": "The cruelty of parents"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "How does the theme of 'taking risks' develop throughout the story?",
+              "correct_answer": "The story shows that taking risks despite fear leads to discovering hidden abilities. The young seagull had the capability all along but needed to act to discover it.",
+              "marks": 3
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "What does the story suggest about the relationship between fear and action?",
+              "options": {
+                "a": "Fear should always be avoided",
+                "b": "Action often comes only when we overcome fear",
+                "c": "Fear is always rational",
+                "d": "Action causes fear"
+              },
+              "correct_answer": "b",
+              "marks": 2
+            },
+            {
+              "q_number": 4,
+              "type": "fill_blank",
+              "question": "The theme of parental __________ is shown through the family's tough approach to helping the young seagull.",
+              "correct_answer": "guidance/love/teaching",
+              "alternate_answers": ["guidance", "love", "teaching", "support"],
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "analytical",
+              "question": "How does the story relate to the universal human experience of growth and maturity?",
+              "correct_answer": "It shows that maturity requires overcoming self-imposed limitations, taking risks despite fear, and discovering capabilities through action rather than planning.",
+              "marks": 3
+            }
+          ]
+        }
+      },
+      {
+        "id": "QUIZ_TRAIN_010",
+        "input": "Create 5 inference-based questions for 'His First Flight'.",
+        "output": {
+          "quiz_title": "His First Flight - Inference-Based Quiz",
+          "chapter": "His First Flight",
+          "total_marks": 10,
+          "duration": "20 minutes",
+          "difficulty": "hard",
+          "question_count": 5,
+          "questions": [
+            {
+              "q_number": 1,
+              "type": "mcq",
+              "question": "What can we infer about why the young seagull's wings were longer than his siblings'?",
+              "options": {
+                "a": "He needed stronger wings due to being heavier",
+                "b": "He was older than his siblings",
+                "c": "It had no connection to his ability to fly",
+                "d": "The text doesn't provide enough information"
+              },
+              "correct_answer": "c",
+              "marks": 2,
+              "explanation": "The story shows physical capability wasn't the issue - his psychological barrier was the problem."
+            },
+            {
+              "q_number": 2,
+              "type": "short_answer",
+              "question": "What does the young seagull's behavior on the ledge (pretending to sleep, trotting back and forth) suggest about his mental state?",
+              "correct_answer": "He was anxious and desperately seeking alternative solutions. His behavior shows he was trying anything to avoid the central issue - flying.",
+              "marks": 2
+            },
+            {
+              "q_number": 3,
+              "type": "mcq",
+              "question": "Why did the family ignore the young seagull for 24 hours rather than continuing to coax him?",
+              "options": {
+                "a": "They forgot about him",
+                "b": "They were teaching him a lesson through withdrawal of attention and forced self-reliance",
+                "c": "They were angry",
+                "d": "They were busy hunting"
+              },
+              "correct_answer": "b",
+              "marks": 2,
+              "explanation": "The silence was strategic - removing the safety net to create necessity."
+            },
+            {
+              "q_number": 4,
+              "type": "analytical",
+              "question": "Infer what might have happened if the mother had continued to be sympathetic and given him more time.",
+              "correct_answer": "He likely would have never flown. Comfort and patience would have enabled his dependence rather than forcing growth.",
+              "marks": 2
+            },
+            {
+              "q_number": 5,
+              "type": "analytical",
+              "question": "What can we infer about the author's view on parenting based on how the seagull family handles the young one's challenge?",
+              "correct_answer": "The author suggests that effective parenting involves setting boundaries, creating necessary discomfort for growth, and resisting the urge to protect children from necessary challenges.",
+              "marks": 2
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
