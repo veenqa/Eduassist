@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDUASSIST - AI Teaching Partner</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="header">
+            <h1>EDUASSIST</h1>
+            <p>Welcome to your AI-powered teaching partner. Effortlessly generate high-quality lesson plans and quizzes tailored to your needs.</p>
+        </div>
+        
+        <div class="main-content">
+            <div class="info-panel">
+                <div class="how-to-use">
+                    <h3>How to Use</h3>
+                    <ol class="steps">
+                        <li>Type a request in the chatbox on the right.</li>
+                        <li>Be specific for better results!</li>
+                    </ol>
+                </div>
+                
+                <div class="examples">
+                    <h3>Example Prompts:</h3>
+                    <ul class="example-list">
+                        <li onclick="document.getElementById('user-input').value = this.textContent">Create a 45-minute lesson plan for 'His First Flight' focusing on character analysis.</li>
+                        <li onclick="document.getElementById('user-input').value = this.textContent">Generate a 5-question, medium-difficulty quiz for 'His First Flight'.</li>
+                        <li onclick="document.getElementById('user-input').value = this.textContent">Make a lesson plan about character development in His First Flight</li>
+                        <li onclick="document.getElementById('user-input').value = this.textContent">Create a quiz with 10 questions about the main themes</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="chat-panel">
+                <div class="chat-box" id="chat-box">
+                    <div class="message bot-message">
+                        <div class="message-text">
+                            Hello! I'm EDUASSIST. How can I help you prepare for your class today?
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chat-input-container">
+                    <form id="chat-form">
+                        <div class="chat-input-wrapper">
+                            <textarea 
+                                id="user-input" 
+                                placeholder="Ask for a lesson plan or a quiz..." 
+                                rows="1"
+                            ></textarea>
+                            <button type="submit" id="send-button">
+                                Send
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
